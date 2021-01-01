@@ -1,7 +1,7 @@
 # A place to keep useful articles and tutorials about backend tech
 ###  GO
 - [Udemy WebDev course ](https://www.udemy.com/course/go-programming-language/)
-- [All Design Patterns in Go (Creational & Behavioural)](https://github.com/gophercises)
+- [All Design Patterns in Go (Creational & Behavioural)](https://golangbyexample.com/all-design-patterns-golang/)
 - [Some mini projects to be familiar with diffrent concepts of go](https://github.com/gophercises)
 - [Containerizing your Go Applications with Docker](https://tutorialedge.net/golang/go-docker-tutorial/)
 ###  nodejs
