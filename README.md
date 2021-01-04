@@ -11,4 +11,8 @@
 - [Securing RESTful API using Json Web Token (JWT) ](https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/) by freeCodeCamp
 - [How to Document an Express API with Swagger UI and JSDoc](https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do)
 -  [Parsing multipart/formData and uploading files using Multer](https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-and-express-5bc76073419f)
+- running scripts in node (getting familiar with child process)
+  - [How to run a python script from node js](https://medium.com/swlh/run-python-script-from-node-js-and-send-data-to-browser-15677fcf199f)
+  - [Running bash script in node](https://stackabuse.com/executing-shell-commands-with-node-js/)
+  - [child process's docs (know the synced versions)](https://nodejs.org/api/child_process.html#child_process_child_process_spawnsync_command_args_options)
 
