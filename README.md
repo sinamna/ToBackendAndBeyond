@@ -10,6 +10,7 @@
 ###  nodejs
 -  [ Deep Dive Into Modern Web Development using React and Node js](https://fullstackopen.com/en/) and its really good for beginners.
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
+- [JavaScript Promise Tutorial](https://www.freecodecamp.org/news/javascript-es6-promises-for-beginners-resolve-reject-and-chaining-explained/)
 - [npm for beginners](https://www.freecodecamp.org/news/what-is-npm-a-node-package-manager-tutorial-for-beginners/) by freeCodeCamp
 - awsome [Introduction to mongoose ](https://medium.com/free-code-camp/introduction-to-mongoose-for-mongodb-d2a7aa593c57), MongoDB's ODM 
 - [Securing RESTful API using Json Web Token (JWT) ](https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/) by freeCodeCamp
