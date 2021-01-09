@@ -22,7 +22,7 @@
   - [How to run a python script from node js](https://medium.com/swlh/run-python-script-from-node-js-and-send-data-to-browser-15677fcf199f)
   - [Running bash script in node](https://stackabuse.com/executing-shell-commands-with-node-js/)
   - [child process's docs (know the synced versions)](https://nodejs.org/api/child_process.html#child_process_child_process_spawnsync_command_args_options)
- - CI/CD 
-  -[https://medium.com/better-programming/a-deep-dive-into-github-actions-51e234da0c50](https://medium.com/better-programming/a-deep-dive-into-github-actions-51e234da0c50)
+- CI/CD 
+  - [A deep dive into the github actions](https://medium.com/better-programming/a-deep-dive-into-github-actions-51e234da0c50)
   - [Github Actions — The What, Why, and How](https://medium.com/better-programming/github-actions-the-what-why-and-how-3868d5a86292)
   - [Automatic deploy with Node.js in development & production](https://medium.com/@sayhicoelho/automatic-deploy-with-node-js-in-development-production-549a1ccb74)
