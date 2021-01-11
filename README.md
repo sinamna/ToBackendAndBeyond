@@ -8,6 +8,7 @@
 - [All Design Patterns in Go (Creational & Behavioural)](https://golangbyexample.com/all-design-patterns-golang/)
 - [Some mini projects to be familiar with diffrent concepts of go](https://github.com/gophercises)
 - [Containerizing your Go Applications with Docker](https://tutorialedge.net/golang/go-docker-tutorial/)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 ###  nodejs
 -  [ Deep Dive Into Modern Web Development using React and Node js](https://fullstackopen.com/en/) and its really good for beginners.
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
