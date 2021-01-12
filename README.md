@@ -1,6 +1,10 @@
 # A place to keep useful articles and tutorials about backend tech
-
+### General
 - [How to read Medium articles for free](https://www.quora.com/How-do-I-read-Medium-articles-for-free)
+
+- Docker
+  - [Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
+  - [Beginner Guide to docker-compose](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/)
 
 ###  GO
 - [Learn Go With Tests ](https://quii.gitbook.io/learn-go-with-tests/)
@@ -19,6 +23,7 @@
 - [Securing RESTful API using Json Web Token (JWT) ](https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/) by freeCodeCamp
 - [How to Document an Express API with Swagger UI and JSDoc](https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do)
 -  [Parsing multipart/formData and uploading files using Multer](https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-and-express-5bc76073419f)
+- [Dockerising a Node.js and MongoDB App](https://medium.com/statuscode/dockerising-a-node-js-and-mongodb-app-d22047e2806f)
 - running scripts in node (getting familiar with child process)
   - [How to run a python script from node js](https://medium.com/swlh/run-python-script-from-node-js-and-send-data-to-browser-15677fcf199f)
   - [Running bash script in node](https://stackabuse.com/executing-shell-commands-with-node-js/)
