@@ -35,6 +35,9 @@
   - [Dockerising a Node.js and MongoDB App](https://medium.com/statuscode/dockerising-a-node-js-and-mongodb-app-d22047e2806f)
 - Deploy
   - [How To Set Up a Node.js Application for Production on](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04#prerequisites)
+- Testing 
+  - [Test a Node RESTful API with Mocha and Chai](https://www.digitalocean.com/community/tutorials/test-a-node-restful-api-with-mocha-and-chai#a-better-test)
+  - [Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71)
 - CI/CD 
   - [Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71)
   - [A deep dive into the github actions](https://medium.com/better-programming/a-deep-dive-into-github-actions-51e234da0c50)
