@@ -5,7 +5,9 @@
 - Docker
   - [Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
   - [Beginner Guide to docker-compose](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/)
-
+- Deploy 
+  - [Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
+  - [How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
 ###  GO
 - [Learn Go With Tests ](https://quii.gitbook.io/learn-go-with-tests/)
 - [Udemy WebDev course ](https://www.udemy.com/course/go-programming-language/)
@@ -22,14 +24,16 @@
 - [Introduction to mongoose ](https://medium.com/free-code-camp/introduction-to-mongoose-for-mongodb-d2a7aa593c57), MongoDB's ODM 
 - [Securing RESTful API using Json Web Token (JWT) ](https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/) by freeCodeCamp
 - [How to Document an Express API with Swagger UI and JSDoc](https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do)
--  [Parsing multipart/formData and uploading files using Multer](https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-and-express-5bc76073419f)
-- running scripts in node (getting familiar with child process)
+- [Uploading files and Parsing multipart/formData using Multer](https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-and-express-5bc76073419f)
+- Running scripts in node (getting familiar with child process)
   - [How to run a python script from node js](https://medium.com/swlh/run-python-script-from-node-js-and-send-data-to-browser-15677fcf199f)
   - [Running bash script in node](https://stackabuse.com/executing-shell-commands-with-node-js/)
   - [child process's docs (know the synced versions)](https://nodejs.org/api/child_process.html#child_process_child_process_spawnsync_command_args_options)
 - Docker
   - [Containerizing a Node.js Application for Development With Docker Compose](https://www.digitalocean.com/community/tutorials/containerizing-a-node-js-application-for-development-with-docker-compose)
   - [Dockerising a Node.js and MongoDB App](https://medium.com/statuscode/dockerising-a-node-js-and-mongodb-app-d22047e2806f)
+- Deploy
+  - [How To Set Up a Node.js Application for Production on](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04#prerequisites)
 - CI/CD 
   - [Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71)
   - [A deep dive into the github actions](https://medium.com/better-programming/a-deep-dive-into-github-actions-51e234da0c50)
