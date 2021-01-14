@@ -11,6 +11,7 @@
 - Deploy 
   - [Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
   - [How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
+  - [How To Install LEMP on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04)
 ###  GO
 - [Learn Go With Tests ](https://quii.gitbook.io/learn-go-with-tests/)
 - [Udemy WebDev course ](https://www.udemy.com/course/go-programming-language/)
