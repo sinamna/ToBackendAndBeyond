@@ -6,6 +6,8 @@
   - [Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
   - [Beginner Guide to docker-compose](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/)
   - [Jadi's Docker Introduction](https://www.youtube.com/watch?v=_jKNnHROiC0)
+  - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+  - [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
 - Deploy 
   - [Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
   - [How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
