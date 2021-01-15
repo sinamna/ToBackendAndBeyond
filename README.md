@@ -8,6 +8,7 @@
   - [Jadi's Docker Introduction](https://www.youtube.com/watch?v=_jKNnHROiC0)
   - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
   - [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
+  - [Enable MongoDB authentication with docker-compose](https://dev.to/efe136/how-to-enable-mongodb-authentication-with-docker-compose-2nbp)
 - Deploy 
   - [Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
   - [How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
