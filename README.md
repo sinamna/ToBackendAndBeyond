@@ -37,6 +37,7 @@
 - Docker
   - [Containerizing a Node.js Application for Development With Docker Compose](https://www.digitalocean.com/community/tutorials/containerizing-a-node-js-application-for-development-with-docker-compose)
   - [Dockerising a Node.js and MongoDB App](https://medium.com/statuscode/dockerising-a-node-js-and-mongodb-app-d22047e2806f)
+  - [NGINX with Docker and Node.js](https://ashwin9798.medium.com/nginx-with-docker-and-node-js-a-beginners-guide-434fe1216b6b)
 - Deploy
   - [How To Set Up a Node.js Application for Production on](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04#prerequisites)
 - Testing 
