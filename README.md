@@ -44,8 +44,6 @@
   - [Test a Node RESTful API with Mocha and Chai](https://www.digitalocean.com/community/tutorials/test-a-node-restful-api-with-mocha-and-chai#a-better-test)
   - [Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71)
 - CI/CD 
-  - [Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71)
   - [A deep dive into the github actions](https://medium.com/better-programming/a-deep-dive-into-github-actions-51e234da0c50)
   - [Github Actions — The What, Why, and How](https://medium.com/better-programming/github-actions-the-what-why-and-how-3868d5a86292)
-  - [Automatic deploy with Node.js in development & production](https://medium.com/@sayhicoelho/automatic-deploy-with-node-js-in-development-production-549a1ccb74)
-  
+  - [How to set up a CI/CD Pipeline for a node.js app with Github Actions](https://dev.to/chathula/how-to-set-up-a-ci-cd-pipeline-for-a-node-js-app-with-github-actions-32h0)  
