@@ -9,6 +9,8 @@
   - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
   - [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
   - [Enable MongoDB authentication with docker-compose](https://dev.to/efe136/how-to-enable-mongodb-authentication-with-docker-compose-2nbp)
+  - [Run Docker As a Non Root User](https://www.thegeekdiary.com/run-docker-as-a-non-root-user/)
+  - [How to link multiple docker-compose services via network](https://tjtelan.com/blog/how-to-link-multiple-docker-compose-via-network/)
 - Deploy 
   - [Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
   - [How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
@@ -47,3 +49,4 @@
   - [A deep dive into the github actions](https://medium.com/better-programming/a-deep-dive-into-github-actions-51e234da0c50)
   - [Github Actions — The What, Why, and How](https://medium.com/better-programming/github-actions-the-what-why-and-how-3868d5a86292)
   - [How to set up a CI/CD Pipeline for a node.js app with Github Actions](https://dev.to/chathula/how-to-set-up-a-ci-cd-pipeline-for-a-node-js-app-with-github-actions-32h0)  
+  - [Building and testing Node.js](https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action)
