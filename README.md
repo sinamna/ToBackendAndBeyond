@@ -11,6 +11,7 @@
   - [Enable MongoDB authentication with docker-compose](https://dev.to/efe136/how-to-enable-mongodb-authentication-with-docker-compose-2nbp)
   - [Run Docker As a Non Root User](https://www.thegeekdiary.com/run-docker-as-a-non-root-user/)
   - [How to link multiple docker-compose services via network](https://tjtelan.com/blog/how-to-link-multiple-docker-compose-via-network/)
+  - [How to Share Data Between a Docker Container and Host](https://thenewstack.io/docker-basics-how-to-share-data-between-a-docker-container-and-host/)
 - Deploy 
   - [Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
   - [How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
