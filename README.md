@@ -17,6 +17,9 @@
   - [How To Install Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
   - [How To Install LEMP on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04)
 ###  GO
+- Baby steps
+  -[Reading a simple CSV in Go](https://ankurraina.medium.com/reading-a-simple-csv-in-go-36d7a269cecd)
+  -[Reading in Console Input in Golang](https://tutorialedge.net/golang/reading-console-input-golang/)
 - [Learn Go With Tests ](https://quii.gitbook.io/learn-go-with-tests/)
 - [Udemy WebDev course ](https://www.udemy.com/course/go-programming-language/)
 - [All Design Patterns in Go (Creational & Behavioural)](https://golangbyexample.com/all-design-patterns-golang/)
