@@ -20,6 +20,7 @@
 - Baby steps
   - [Reading a simple CSV in Go](https://ankurraina.medium.com/reading-a-simple-csv-in-go-36d7a269cecd)
   - [Reading in Console Input in Golang](https://tutorialedge.net/golang/reading-console-input-golang/)
+  - [Parsing JSON](https://www.sohamkamani.com/golang/parsing-json/)
   - Some basics
     - [RunGo in medium](https://medium.com/rungo)
 - [Learn Go With Tests ](https://quii.gitbook.io/learn-go-with-tests/)
