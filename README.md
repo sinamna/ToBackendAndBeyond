@@ -29,6 +29,8 @@
 - [Some mini projects to be familiar with diffrent concepts of go](https://github.com/gophercises)
 - [Containerizing your Go Applications with Docker](https://tutorialedge.net/golang/go-docker-tutorial/)
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+- [Securing Golang API using JWT](https://medium.com/@Raulgzm/securing-golang-api-using-json-web-token-jwt-2dc363792a48)
+
 ###  Node.js
 - [Deep Dive Into Modern Web Development using React and Node js](https://fullstackopen.com/en/)
 - [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
