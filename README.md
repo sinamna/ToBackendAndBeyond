@@ -31,7 +31,9 @@
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 - [Securing Golang API using JWT](https://medium.com/@Raulgzm/securing-golang-api-using-json-web-token-jwt-2dc363792a48)
 - GraphQl
-  - [Go GraphQL Beginners Tutorial](https://www.inovex.de/blog/graphql-application-golang-tutorial/)
+  - [Building a GraphQL Example Application with Golang](https://www.inovex.de/blog/graphql-application-golang-tutorial/)
+  - [Building a GraphQL Server with Golang and MongoDB](https://www.youtube.com/watch?v=FkpCeXbXVhU) (Video)
+  - [graphql-go Tutorial - Introduction](https://www.howtographql.com/graphql-go/0-introduction/)
 
 ###  Node.js
 - [Deep Dive Into Modern Web Development using React and Node js](https://fullstackopen.com/en/)
