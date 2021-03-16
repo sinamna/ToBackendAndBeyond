@@ -34,6 +34,7 @@
   - [Building a GraphQL Example Application with Golang](https://www.inovex.de/blog/graphql-application-golang-tutorial/)
   - [Building a GraphQL Server with Golang and MongoDB](https://www.youtube.com/watch?v=FkpCeXbXVhU) (Video)
   - [graphql-go Tutorial - Introduction](https://www.howtographql.com/graphql-go/0-introduction/)
+  - [Making a simple GraphQL server with Go](https://itnext.io/making-a-simple-graphql-server-with-go-dcb9b60460c6)
 
 ###  Node.js
 - [Deep Dive Into Modern Web Development using React and Node js](https://fullstackopen.com/en/)
